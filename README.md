@@ -8,6 +8,7 @@ Hydrogen's supported functions / libraries:
 - drawing library
 - bit library
 - crypt library
+- base64 library
 
 ### Functions:
 - firesignal
@@ -30,7 +31,6 @@ Hydrogen's supported functions / libraries:
 - newcclosure
 - request
 - getthreadcontext
-- shared
 - replacefunction
 - cloneref
 - setscriptable
@@ -70,7 +70,6 @@ Hydrogen's supported functions / libraries:
 - isrobloxactive
 - setreadonly
 - setrenderproperty
-- base64
 - emulate_call
 - getinstances
 - checkclosure
