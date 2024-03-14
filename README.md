@@ -1,5 +1,5 @@
 # hydrogen-functions
-Hydrogen's supported functions:
+Hydrogen's supported functions / libraries:
 
 ### Libraries:
 - debug library
